@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Taps</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_taps_left">|</string>
+    <string name="title_taps_middle"> TAPS </string>
+    <string name="title_taps_right">|</string>
+    <string name="title_activity_classic__taps">Classic</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
