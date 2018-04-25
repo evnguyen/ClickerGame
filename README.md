@@ -1,3 +1,2 @@
 # ClickerGame
-Clicker Android app
-STILL IN DEVELOPMENT
+Clicker Android app in development
