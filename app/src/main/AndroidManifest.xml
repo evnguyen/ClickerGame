@@ -19,7 +19,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ClassicTaps" />
-        <activity android:name=".Settings"></activity>
+        <activity android:name=".Settings" />
+        <activity android:name=".ColoursTaps"></activity>
     </application>
 
 </manifest>
